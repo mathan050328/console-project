@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Console LAN Chat Application
 
 A multi-client, multi-threaded console-based LAN Chat Application.
@@ -61,3 +62,6 @@ java -cp bin chat.Client
 2.  Enter a username when prompted.
 3.  Type messages and press Enter to send.
 4.  Type `/quit` to disconnect.
+=======
+# console-project
+>>>>>>> 45849a3b092088c21f7d15ffbd816904f18a07bb
